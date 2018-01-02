@@ -1,0 +1,28 @@
+{
+  "name": "wda",
+  "version": "1.0.0",
+  "description": "Facebook WebDriverAgent Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzyss86/wda.git"
+  },
+  "keywords": [
+    "iOS",
+    "WebDriver",
+    "WebDriverAgent",
+    "WebDriverClient"
+  ],
+  "author": "jsonzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzyss86/wda/issues"
+  },
+  "homepage": "https://github.com/zzyss86/wda#readme",
+  "dependencies": {
+    "sync-request": "^4.1.0"
+  }
+}
