@@ -1,6 +1,6 @@
 # wda 中文文档
 
-[English document]()
+[English document](https://github.com/zzyss86/wda)
 
 > Author: jsonzhou 2018/01/01
 

@@ -1,6 +1,6 @@
 # wda document
 
-[中文文档]()
+[中文文档](https://github.com/zzyss86/wda/blob/master/README_CN.md)
 
 > Author: jsonzhou 2018/01/01
 
